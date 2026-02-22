@@ -9,8 +9,8 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  title: "Rang Studios | South Asian Wedding Photography",
-  description: "Premium South Asian wedding and event photography studio specializing in capturing the vibrant colors, emotions, and traditions of your most precious moments.",
+  title: "Tahir Alvi | Sr. .NET & Azure Consultant",
+  description: "10+ years of experience designing, developing, and deploying enterprise applications on .NET Core, Azure Cloud, and SQL Server. Specializing in cloud migrations, microservices, and AI-assisted development.",
   language: "en",
 };
 
