@@ -513,8 +513,8 @@ function App() {
                   </div>
                   <div>
                     <p className="text-sm text-slate-500">Email</p>
-                    <a href="mailto:engtahiralvi@gmail.com" className="text-slate-200 hover:text-blue-400 transition-colors">
-                      engtahiralvi@gmail.com
+                    <a href="mailto:eng@gmail.com" className="text-slate-200 hover:text-blue-400 transition-colors">
+                      eng@gmail.com
                     </a>
                   </div>
                 </div>
@@ -525,8 +525,8 @@ function App() {
                   </div>
                   <div>
                     <p className="text-sm text-slate-500">Phone</p>
-                    <a href="tel:+923336523898" className="text-slate-200 hover:text-cyan-400 transition-colors">
-                      +92 333 6523898
+                    <a href="tel:+923336666666" className="text-slate-200 hover:text-cyan-400 transition-colors">
+                      +92 333 6666666
                     </a>
                   </div>
                 </div>
@@ -544,7 +544,7 @@ function App() {
               
               <div className="flex gap-4">
                 <a 
-                  href="https://linkedin.com" 
+                  href="https://linkedin.com/in/tahirazeemalvi" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-800 text-slate-300 hover:bg-blue-500/20 hover:text-blue-400 transition-all border border-slate-700"
@@ -554,7 +554,7 @@ function App() {
                   <ExternalLink className="w-4 h-4" />
                 </a>
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/tahiralvi" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition-all border border-slate-700"
@@ -627,7 +627,7 @@ function App() {
               <span className="text-slate-400 text-sm">.NET & Azure Consultant</span>
             </div>
             <p className="text-slate-500 text-sm">
-              © 2024 Tahir Alvi. All rights reserved.
+              © 2026 Tahir Alvi. All rights reserved.
             </p>
           </div>
         </div>
